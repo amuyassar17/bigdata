@@ -1,7 +1,7 @@
 apiVersion: v1
 appVersion: "2.6.0"
-description: HokStack Helm chart to Hadoop on Kubernetes
-name: hokstack
+description: Orkestrasi Komponen Ekosistem Big Data
+name: skjbigdata
 version: 1.0.0
 icon: https://i.imgur.com/OpZGcib.png
 home: https://hokstack.io
@@ -11,5 +11,7 @@ maintainers:
     email: rohitrsh@gmail.com
   - name: Shubhomoy Biswas
     email: shubhomoy.biswas95@gmail.com
+  - name: Ahmad Muyassar
+    email: amuyassar16@gmail.com
 sources:
-  - https://github.com/hokstack/hok-helm
+  - https://github.com/amuyassar17/bigdata
